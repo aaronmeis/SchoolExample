@@ -17,6 +17,8 @@ Implemented in `src/collectors/` or documented in `config.py`.
   - `electricity/retail-sales/data/` — sales by sector
 - **Rate limit:** None documented; retry on 429
 - **Collector:** `src/collectors/eia_collector.py`
+<img width="1793" height="971" alt="image" src="https://github.com/user-attachments/assets/3b76eb7f-eb2f-4a7d-b9e7-fd3c2ab60234" />
+https://www.eia.gov/opendata/index.php#bulk-downloads
 
 ---
 
